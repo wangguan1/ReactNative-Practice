@@ -1,0 +1,80 @@
+
+
+brew update //升级brew本身 0.9.5
+
+## 更新node npm
+
+node -v  //v0.10.26 to 0.12.2
+//brew upgrade node
+//官网.pkg
+
+npm -v  //1.4.10 to 2.7.4
+//brew upgrade npm
+// 
+
+http://davidwalsh.name/upgrade-nodejs 
+https://docs.npmjs.com/getting-started/installing-node 
+https://docs.npmjs.com/cli/update 
+
+
+## 安装RC
+http://facebook.github.io/react-native/docs/getting-started.html 
+
+git clone https://github.com/facebook/react-native.git
+cd react-native 
+npm install // lots of logs
+cd Examples //示例工程
+
+CLI: react-native
+
+
+Watchman 
+https://facebook.github.io/watchman/docs/install.html
+brew install watchman
+// 3.0.0
+
+Flow
+brew install flow
+http://www.flowtype.org/
+
+
+## Reference
+https://github.com/facebook/react-native
+https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/
+
+
+http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript
+http://www.appcoda.com/react-native-introduction/
+http://www.zhihu.com/question/27852694/answer/43990708 
+https://egghead.io/series/react-native-fundamentals 
+http://blog.cnbang.net/tech/2698/
+http://wiki.jikexueyuan.com/project/react-native/ 
+http://jlongster.com/First-Impressions-using-React-Native
+http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
+http://onevcat.com/2015/03/cross-platform/
+http://www.infoq.com/cn/news/2015/02/react-native-facebook-javascript 
+
+
+// github
+https://github.com/ele828/react-native-guide
+https://github.com/iSimar/HackerNews-React-Native
+https://github.com/henter/ReactNativeRubyChina
+https://github.com/jsdf/ReactNativeHackerNews
+http://herman.asia/building-a-flashcard-app-with-react-native 
+https://github.com/tmallfe/tmallfe.github.io/issues/19 
+//
+https://github.com/Flipboard/react-canvas 
+
+http://www.tudou.com/home/jiyinyiyong/item 
+
+## react.js
+https://github.com/facebook/react
+http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660 
+http://www.ruanyifeng.com/blog/2015/03/react.html
+http://staltz.com/dont-react/#/
+http://www.itpub.net/thread-1901887-1-1.html 
+https://www.safaribooksonline.com/library/view/developing-a-react/9781939902122/
+http://www.infoq.com/cn/news/2015/02/netfix-react-user-experience 
+http://www.v2ex.com/t/166377
+
+
